@@ -1,0 +1,37 @@
+# AutoHotkey compiled files
+*.exe
+
+# Log files
+*.log
+Logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Settings files (may contain sensitive data)
+settings.ini
+ipc_settings.ini
+
+# Test result files
+*_results.txt
+*_test_results.txt
+
+# Debug files
+*.txt
+run_debug.txt
+path_debug.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
